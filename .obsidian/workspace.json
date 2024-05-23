@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a9fe78e49838a4e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a6c39181b264ba5",
+  "active": "a9fe78e49838a4e1",
   "lastOpenFiles": [
+    "Минимальный размер выборки для оценки VPIP и PFR.md",
     "README.md"
   ]
 }
