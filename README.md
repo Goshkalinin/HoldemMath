@@ -1,2 +1,3 @@
-- [минимальный размер выборки для оценки VPIP/PFR](Minimal_Sample_Size_For_VPIP&PFR_Stats.md)
-- почему диапазон открытия сужается к ранним позициям
+- [почему диапазон открытия сужается к ранним позициям](holdem/Why_Open_Ranges_Tighten_To_Early_Positions)
+- [минимальный размер выборки для оценки VPIP/PFR](holdem/Minimal_Sample_Size_For_VPIP&PFR_Stats.md)
+- 
