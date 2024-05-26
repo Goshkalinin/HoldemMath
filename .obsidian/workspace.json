@@ -175,8 +175,14 @@
       "obsidian-dangling-links:Show dangling links panel": false
     }
   },
-  "active": "6327a0968baf6562",
+  "active": "e90b3ed38493a12f",
   "lastOpenFiles": [
+    "holdem/images/static_vpip_standart_deviation.jpg",
+    "holdem/images/real_test_2_pfr.jpg",
+    "holdem/images/real_test_2.jpg",
+    "holdem/images/real_test.jpg",
+    "holdem/images/VPIP_25_binominal.jpg",
+    "holdem/images",
     "images/real_test_2_pfr.jpg",
     "QUESTIONS.md",
     "images/real_test_2.jpg",
@@ -196,7 +202,6 @@
     "matplotlib/5282",
     "matplotlib/5159",
     "matplotlib/5036",
-    "matplotlib/plot_confidence_interval.py",
     "images/VPIP_25_binominal.png",
     "Минимальный.md"
   ]
